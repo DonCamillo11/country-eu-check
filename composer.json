@@ -1,0 +1,17 @@
+{
+    "name": "doncamillo11/country-eu-check",
+    "description": "Checks whether a given country is a member state of the EU.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "DonCamillo11\\CountryEuCheck\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tommaso Maiocchi",
+            "email": "moin@maiocchi.de"
+        }
+    ],
+    "require": {}
+}
