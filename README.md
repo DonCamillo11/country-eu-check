@@ -32,4 +32,4 @@ CountryEuCheck::checkEuMembership('Switzerland'); // false
 
 ## License
 
-VatCalculator is open-sourced software licensed under [the MIT license](LICENSE.md).
+CountryEUCheck is open-sourced software licensed under [the MIT license](LICENSE.md).
