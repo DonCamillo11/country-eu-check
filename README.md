@@ -1,6 +1,7 @@
 # Country EU Check
 ![Packagist Version](https://img.shields.io/packagist/v/doncamillo11/country-eu-check)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/doncamillo11/country-eu-check)
+![License](https://poser.pugx.org/doncamillo11/laraconfig/license)
 
 Checks whether a given country is a member of the European Union.
 
